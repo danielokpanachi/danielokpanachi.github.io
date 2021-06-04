@@ -1,0 +1,98 @@
+body{
+    margin: 0;/*padding from the edge*/
+    padding:0; /*margins around the element*/
+    font-family: Open Sans;/*font type*/
+    background-color:#bac429;
+
+}
+table{
+  /*border-collapse: collapse;/* single lines */
+ /* border:0;                 /* Frame around the table */
+  width:100%;            
+  background-color:#ffffff;
+  height:90px ;
+  margin-top: -0px;
+ }
+ #header,#{
+      height:5050px;
+      background:#ff1e1e;/*Background color*/
+ }
+ #footer{
+   /*margin-top: 2000px;
+  height:55px;*/
+  background:#ffffff;/*Цвет фона*/
+  clear: both;
+  position: relative;
+  height: 20px;
+  margin-top: -200px; text-align:center;/*Aligning an element to the center*/
+  font-size:120%;/*Font size*/
+}
+#header{
+  text-align:center;
+  text-align: 20px;
+  font-size:  420%; 
+  font: sans-serif;
+  background:#ffffff;
+  bottom: :2000px;
+  height: 10px;
+ }
+/* #footer{
+  text-align:center;/*Aligning an element to the center*/
+ /* font-size:120%;/*Font size*/
+/*  } */ 
+ a{
+   color:#191970;
+   text-align:center;
+ }
+ a:visited{
+     color:#D3D3D3;
+ }
+ img{
+     height:535px;
+     width:341px;
+     text-align:center;
+ }
+ a img{
+     height:30px;
+     width:30px;
+     float:right;/*Right positioning */
+     margin-left:20px;/*Distance between icons*/
+ }
+ h2{
+   font-family:Pacifico;
+   float:center;
+ }
+ td{
+    padding:0px;
+    text-align:center;
+    width:341px;
+    letter-spacing:2px;/*spacing*/
+    
+ }
+ ul li{
+     display:inline;/*display of list one row*/
+     font-family: Osvald;
+     font-size:120%;
+     text-align:right;	
+     }
+div{
+    margin-top:-37px;/*padding from the top edge of the element*/
+}
+ b{
+    color:#191970;
+}
+ span{
+     font-weight:bold;/*width*/
+     letter-spacing:2px;/*spacing*/
+     text-align:left;
+ }
+ h1{color: #a69aa7;
+  font-size: medium;
+
+}
+
+button {background-color:rgb(86, 252, 9);
+    
+
+
+}
